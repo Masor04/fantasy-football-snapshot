@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-08T20:45:25.194Z",
+  "generated_at": "2026-10-08T21:45:33.874Z",
   "nfl_state": {
     "season": "2026",
     "season_type": "regular",
@@ -189,8 +189,8 @@
         ],
         "team": "LV",
         "status": "Active",
-        "injury_status": null,
-        "injury_body_part": null,
+        "injury_status": "Questionable",
+        "injury_body_part": "Ankle",
         "injury_notes": null,
         "practice_participation": null,
         "depth_chart_order": 1,
@@ -685,8 +685,8 @@
           ],
           "team": "TEN",
           "status": "Active",
-          "injury_status": null,
-          "injury_body_part": null,
+          "injury_status": "Questionable",
+          "injury_body_part": "Back",
           "injury_notes": null,
           "practice_participation": null,
           "depth_chart_order": 1,
@@ -1038,8 +1038,8 @@
           ],
           "team": "NO",
           "status": "Active",
-          "injury_status": "Questionable",
-          "injury_body_part": "Hand",
+          "injury_status": null,
+          "injury_body_part": null,
           "injury_notes": null,
           "practice_participation": null,
           "depth_chart_order": 1,
@@ -1322,8 +1322,8 @@
           ],
           "team": "PHI",
           "status": "Active",
-          "injury_status": null,
-          "injury_body_part": null,
+          "injury_status": "Questionable",
+          "injury_body_part": "Hamstring",
           "injury_notes": null,
           "practice_participation": null,
           "depth_chart_order": 1,
@@ -1496,8 +1496,8 @@
           ],
           "team": "LV",
           "status": "Active",
-          "injury_status": "Questionable",
-          "injury_body_part": "Knee",
+          "injury_status": null,
+          "injury_body_part": null,
           "injury_notes": null,
           "practice_participation": null,
           "depth_chart_order": 1,
@@ -3036,8 +3036,8 @@
           ],
           "team": "TEN",
           "status": "Active",
-          "injury_status": null,
-          "injury_body_part": null,
+          "injury_status": "Questionable",
+          "injury_body_part": "Back",
           "injury_notes": null,
           "practice_participation": null,
           "depth_chart_order": 1,
@@ -3988,8 +3988,8 @@
           ],
           "team": "TEN",
           "status": "Active",
-          "injury_status": "Questionable",
-          "injury_body_part": "Foot",
+          "injury_status": null,
+          "injury_body_part": null,
           "injury_notes": null,
           "practice_participation": null,
           "depth_chart_order": 1,
@@ -4525,8 +4525,8 @@
           ],
           "team": "LV",
           "status": "Active",
-          "injury_status": null,
-          "injury_body_part": null,
+          "injury_status": "Questionable",
+          "injury_body_part": "Ankle",
           "injury_notes": null,
           "practice_participation": null,
           "depth_chart_order": 1,
@@ -5667,8 +5667,8 @@
       ],
       "team": "TEN",
       "status": "Active",
-      "injury_status": null,
-      "injury_body_part": null,
+      "injury_status": "Questionable",
+      "injury_body_part": "Knee",
       "injury_notes": null,
       "practice_participation": null,
       "depth_chart_order": 1,
@@ -6075,8 +6075,8 @@
       ],
       "team": "MIA",
       "status": "Active",
-      "injury_status": null,
-      "injury_body_part": null,
+      "injury_status": "Questionable",
+      "injury_body_part": "Foot",
       "injury_notes": null,
       "practice_participation": null,
       "depth_chart_order": 2,
@@ -9912,7 +9912,7 @@
   "trending": {
     "available_adds": [
       {
-        "count": 561267,
+        "count": 555318,
         "player": {
           "player_id": "13264",
           "full_name": "Dohnte Meyers",
@@ -9932,7 +9932,7 @@
         }
       },
       {
-        "count": 353240,
+        "count": 363288,
         "player": {
           "player_id": "8129",
           "full_name": "Dameon Pierce",
@@ -9952,7 +9952,7 @@
         }
       },
       {
-        "count": 271440,
+        "count": 271359,
         "player": {
           "player_id": "3271",
           "full_name": "Tyler Higbee",
@@ -9972,7 +9972,7 @@
         }
       },
       {
-        "count": 205009,
+        "count": 207886,
         "player": {
           "player_id": "CLE",
           "full_name": "Cleveland Browns",
@@ -9985,7 +9985,7 @@
         }
       },
       {
-        "count": 201528,
+        "count": 195132,
         "player": {
           "player_id": "JAX",
           "full_name": "Jacksonville Jaguars",
@@ -9998,7 +9998,7 @@
         }
       },
       {
-        "count": 177975,
+        "count": 181293,
         "player": {
           "player_id": "13150",
           "full_name": "Darius Cooper",
@@ -10018,7 +10018,7 @@
         }
       },
       {
-        "count": 135328,
+        "count": 131232,
         "player": {
           "player_id": "9502",
           "full_name": "Tank Dell",
@@ -10038,7 +10038,7 @@
         }
       },
       {
-        "count": 128104,
+        "count": 127276,
         "player": {
           "player_id": "96",
           "full_name": "Aaron Rodgers",
@@ -10058,27 +10058,7 @@
         }
       },
       {
-        "count": 121818,
-        "player": {
-          "player_id": "11577",
-          "full_name": "Will Shipley",
-          "position": "RB",
-          "fantasy_positions": [
-            "RB"
-          ],
-          "team": "PHI",
-          "status": "Active",
-          "injury_status": null,
-          "injury_body_part": null,
-          "injury_notes": null,
-          "practice_participation": null,
-          "depth_chart_order": 1,
-          "depth_chart_position": "RB",
-          "search_rank": 686
-        }
-      },
-      {
-        "count": 121776,
+        "count": 123210,
         "player": {
           "player_id": "11608",
           "full_name": "Isaiah Williams",
@@ -10098,7 +10078,7 @@
         }
       },
       {
-        "count": 119736,
+        "count": 116144,
         "player": {
           "player_id": "4993",
           "full_name": "Mike Gesicki",
@@ -10118,7 +10098,27 @@
         }
       },
       {
-        "count": 100620,
+        "count": 114268,
+        "player": {
+          "player_id": "11577",
+          "full_name": "Will Shipley",
+          "position": "RB",
+          "fantasy_positions": [
+            "RB"
+          ],
+          "team": "PHI",
+          "status": "Active",
+          "injury_status": null,
+          "injury_body_part": null,
+          "injury_notes": null,
+          "practice_participation": null,
+          "depth_chart_order": 1,
+          "depth_chart_position": "RB",
+          "search_rank": 686
+        }
+      },
+      {
+        "count": 100134,
         "player": {
           "player_id": "11581",
           "full_name": "MarShawn Lloyd",
@@ -10138,7 +10138,7 @@
         }
       },
       {
-        "count": 92328,
+        "count": 91664,
         "player": {
           "player_id": "4017",
           "full_name": "Deshaun Watson",
@@ -10158,7 +10158,7 @@
         }
       },
       {
-        "count": 86933,
+        "count": 87976,
         "player": {
           "player_id": "WAS",
           "full_name": "Washington Commanders",
@@ -10171,7 +10171,7 @@
         }
       },
       {
-        "count": 78030,
+        "count": 77463,
         "player": {
           "player_id": "9480",
           "full_name": "Brenton Strange",
@@ -10191,7 +10191,7 @@
         }
       },
       {
-        "count": 64746,
+        "count": 64434,
         "player": {
           "player_id": "LV",
           "full_name": "Las Vegas Raiders",
@@ -10204,47 +10204,7 @@
         }
       },
       {
-        "count": 60070,
-        "player": {
-          "player_id": "7528",
-          "full_name": "Najee Harris",
-          "position": "RB",
-          "fantasy_positions": [
-            "RB"
-          ],
-          "team": "NYG",
-          "status": "Active",
-          "injury_status": null,
-          "injury_body_part": null,
-          "injury_notes": null,
-          "practice_participation": null,
-          "depth_chart_order": 2,
-          "depth_chart_position": "RB",
-          "search_rank": 170
-        }
-      },
-      {
-        "count": 60050,
-        "player": {
-          "player_id": "8132",
-          "full_name": "Tyler Allgeier",
-          "position": "RB",
-          "fantasy_positions": [
-            "RB"
-          ],
-          "team": "ARI",
-          "status": "Active",
-          "injury_status": null,
-          "injury_body_part": null,
-          "injury_notes": null,
-          "practice_participation": null,
-          "depth_chart_order": 2,
-          "depth_chart_position": "RB",
-          "search_rank": 89
-        }
-      },
-      {
-        "count": 59022,
+        "count": 60174,
         "player": {
           "player_id": "650",
           "full_name": "Nick Folk",
@@ -10264,7 +10224,47 @@
         }
       },
       {
-        "count": 47268,
+        "count": 58100,
+        "player": {
+          "player_id": "8132",
+          "full_name": "Tyler Allgeier",
+          "position": "RB",
+          "fantasy_positions": [
+            "RB"
+          ],
+          "team": "ARI",
+          "status": "Active",
+          "injury_status": null,
+          "injury_body_part": null,
+          "injury_notes": null,
+          "practice_participation": null,
+          "depth_chart_order": 2,
+          "depth_chart_position": "RB",
+          "search_rank": 89
+        }
+      },
+      {
+        "count": 58055,
+        "player": {
+          "player_id": "7528",
+          "full_name": "Najee Harris",
+          "position": "RB",
+          "fantasy_positions": [
+            "RB"
+          ],
+          "team": "NYG",
+          "status": "Active",
+          "injury_status": null,
+          "injury_body_part": null,
+          "injury_notes": null,
+          "practice_participation": null,
+          "depth_chart_order": 2,
+          "depth_chart_position": "RB",
+          "search_rank": 170
+        }
+      },
+      {
+        "count": 46521,
         "player": {
           "player_id": "11792",
           "full_name": "Will Reichard",
@@ -10284,7 +10284,7 @@
         }
       },
       {
-        "count": 42404,
+        "count": 42584,
         "player": {
           "player_id": "4663",
           "full_name": "Austin Ekeler",
@@ -10304,7 +10304,7 @@
         }
       },
       {
-        "count": 36162,
+        "count": 36606,
         "player": {
           "player_id": "4037",
           "full_name": "Chris Godwin",
@@ -10324,80 +10324,7 @@
         }
       },
       {
-        "count": 30006,
-        "player": {
-          "player_id": "11256",
-          "full_name": "Tyson Bagent",
-          "position": "QB",
-          "fantasy_positions": [
-            "QB"
-          ],
-          "team": "CHI",
-          "status": "Active",
-          "injury_status": null,
-          "injury_body_part": null,
-          "injury_notes": null,
-          "practice_participation": null,
-          "depth_chart_order": 1,
-          "depth_chart_position": "QB",
-          "search_rank": 546
-        }
-      },
-      {
-        "count": 28828,
-        "player": {
-          "player_id": "NYJ",
-          "full_name": "New York Jets",
-          "position": "DEF",
-          "fantasy_positions": [
-            "DEF"
-          ],
-          "team": "NYJ",
-          "injury_status": null
-        }
-      },
-      {
-        "count": 26968,
-        "player": {
-          "player_id": "5849",
-          "full_name": "Kyler Murray",
-          "position": "QB",
-          "fantasy_positions": [
-            "QB"
-          ],
-          "team": "MIN",
-          "status": "Active",
-          "injury_status": null,
-          "injury_body_part": null,
-          "injury_notes": null,
-          "practice_participation": null,
-          "depth_chart_order": 1,
-          "depth_chart_position": "QB",
-          "search_rank": 86
-        }
-      },
-      {
-        "count": 25620,
-        "player": {
-          "player_id": "7083",
-          "full_name": "Tyler Huntley",
-          "position": "QB",
-          "fantasy_positions": [
-            "QB"
-          ],
-          "team": "BAL",
-          "status": "Active",
-          "injury_status": null,
-          "injury_body_part": null,
-          "injury_notes": null,
-          "practice_participation": null,
-          "depth_chart_order": 1,
-          "depth_chart_position": "QB",
-          "search_rank": 690
-        }
-      },
-      {
-        "count": 23880,
+        "count": 33200,
         "player": {
           "player_id": "10235",
           "full_name": "Roschon Johnson",
@@ -10417,7 +10344,60 @@
         }
       },
       {
-        "count": 23448,
+        "count": 30084,
+        "player": {
+          "player_id": "11256",
+          "full_name": "Tyson Bagent",
+          "position": "QB",
+          "fantasy_positions": [
+            "QB"
+          ],
+          "team": "CHI",
+          "status": "Active",
+          "injury_status": null,
+          "injury_body_part": null,
+          "injury_notes": null,
+          "practice_participation": null,
+          "depth_chart_order": 1,
+          "depth_chart_position": "QB",
+          "search_rank": 546
+        }
+      },
+      {
+        "count": 29270,
+        "player": {
+          "player_id": "NYJ",
+          "full_name": "New York Jets",
+          "position": "DEF",
+          "fantasy_positions": [
+            "DEF"
+          ],
+          "team": "NYJ",
+          "injury_status": null
+        }
+      },
+      {
+        "count": 26936,
+        "player": {
+          "player_id": "5849",
+          "full_name": "Kyler Murray",
+          "position": "QB",
+          "fantasy_positions": [
+            "QB"
+          ],
+          "team": "MIN",
+          "status": "Active",
+          "injury_status": null,
+          "injury_body_part": null,
+          "injury_notes": null,
+          "practice_participation": null,
+          "depth_chart_order": 1,
+          "depth_chart_position": "QB",
+          "search_rank": 86
+        }
+      },
+      {
+        "count": 25128,
         "player": {
           "player_id": "11783",
           "full_name": "Ryan Flournoy",
@@ -10437,7 +10417,27 @@
         }
       },
       {
-        "count": 23236,
+        "count": 24804,
+        "player": {
+          "player_id": "7083",
+          "full_name": "Tyler Huntley",
+          "position": "QB",
+          "fantasy_positions": [
+            "QB"
+          ],
+          "team": "BAL",
+          "status": "Active",
+          "injury_status": null,
+          "injury_body_part": null,
+          "injury_notes": null,
+          "practice_participation": null,
+          "depth_chart_order": 1,
+          "depth_chart_position": "QB",
+          "search_rank": 690
+        }
+      },
+      {
+        "count": 22300,
         "player": {
           "player_id": "12542",
           "full_name": "Efton Chism",
@@ -10457,7 +10457,7 @@
         }
       },
       {
-        "count": 20690,
+        "count": 20795,
         "player": {
           "player_id": "9479",
           "full_name": "Darnell Washington",
@@ -10477,7 +10477,7 @@
         }
       },
       {
-        "count": 19516,
+        "count": 19352,
         "player": {
           "player_id": "1479",
           "full_name": "Keenan Allen",
@@ -10497,7 +10497,7 @@
         }
       },
       {
-        "count": 17304,
+        "count": 17986,
         "player": {
           "player_id": "13425",
           "full_name": "Jalon Daniels",
@@ -10517,7 +10517,7 @@
         }
       },
       {
-        "count": 16424,
+        "count": 16632,
         "player": {
           "player_id": "6650",
           "full_name": "Chase McLaughlin",
@@ -10537,7 +10537,7 @@
         }
       },
       {
-        "count": 14022,
+        "count": 14436,
         "player": {
           "player_id": "8111",
           "full_name": "Cade Otton",
@@ -10557,7 +10557,7 @@
         }
       },
       {
-        "count": 13914,
+        "count": 14172,
         "player": {
           "player_id": "11559",
           "full_name": "Michael Penix",
@@ -10577,7 +10577,7 @@
         }
       },
       {
-        "count": 13685,
+        "count": 13600,
         "player": {
           "player_id": "11647",
           "full_name": "Kimani Vidal",
@@ -10597,27 +10597,7 @@
         }
       },
       {
-        "count": 12405,
-        "player": {
-          "player_id": "7039",
-          "full_name": "Cody White",
-          "position": "WR",
-          "fantasy_positions": [
-            "WR"
-          ],
-          "team": "LV",
-          "status": "Active",
-          "injury_status": "Questionable",
-          "injury_body_part": "Ankle",
-          "injury_notes": null,
-          "practice_participation": null,
-          "depth_chart_order": 3,
-          "depth_chart_position": "SWR",
-          "search_rank": 336
-        }
-      },
-      {
-        "count": 12144,
+        "count": 13050,
         "player": {
           "player_id": "8207",
           "full_name": "Tyler Goodson",
@@ -10637,7 +10617,40 @@
         }
       },
       {
-        "count": 11832,
+        "count": 12336,
+        "player": {
+          "player_id": "7039",
+          "full_name": "Cody White",
+          "position": "WR",
+          "fantasy_positions": [
+            "WR"
+          ],
+          "team": "LV",
+          "status": "Active",
+          "injury_status": "Questionable",
+          "injury_body_part": "Ankle",
+          "injury_notes": null,
+          "practice_participation": null,
+          "depth_chart_order": 3,
+          "depth_chart_position": "SWR",
+          "search_rank": 336
+        }
+      },
+      {
+        "count": 11589,
+        "player": {
+          "player_id": "DEN",
+          "full_name": "Denver Broncos",
+          "position": "DEF",
+          "fantasy_positions": [
+            "DEF"
+          ],
+          "team": "DEN",
+          "injury_status": null
+        }
+      },
+      {
+        "count": 11544,
         "player": {
           "player_id": "12457",
           "full_name": "Jaydon Blue",
@@ -10657,40 +10670,7 @@
         }
       },
       {
-        "count": 11728,
-        "player": {
-          "player_id": "DEN",
-          "full_name": "Denver Broncos",
-          "position": "DEF",
-          "fantasy_positions": [
-            "DEF"
-          ],
-          "team": "DEN",
-          "injury_status": null
-        }
-      },
-      {
-        "count": 11445,
-        "player": {
-          "player_id": "2020",
-          "full_name": "Cairo Santos",
-          "position": "K",
-          "fantasy_positions": [
-            "K"
-          ],
-          "team": "CHI",
-          "status": "Active",
-          "injury_status": null,
-          "injury_body_part": null,
-          "injury_notes": null,
-          "practice_participation": null,
-          "depth_chart_order": 1,
-          "depth_chart_position": "K",
-          "search_rank": 190
-        }
-      },
-      {
-        "count": 11412,
+        "count": 11433,
         "player": {
           "player_id": "4943",
           "full_name": "Sam Darnold",
@@ -10710,7 +10690,27 @@
         }
       },
       {
-        "count": 11004,
+        "count": 11382,
+        "player": {
+          "player_id": "2020",
+          "full_name": "Cairo Santos",
+          "position": "K",
+          "fantasy_positions": [
+            "K"
+          ],
+          "team": "CHI",
+          "status": "Active",
+          "injury_status": null,
+          "injury_body_part": null,
+          "injury_notes": null,
+          "practice_participation": null,
+          "depth_chart_order": 1,
+          "depth_chart_position": "K",
+          "search_rank": 190
+        }
+      },
+      {
+        "count": 11130,
         "player": {
           "player_id": "8161",
           "full_name": "Malik Willis",
@@ -10732,204 +10732,204 @@
     ],
     "drops": [
       {
-        "count": 177687,
+        "count": 173448,
         "player_id": "2505"
       },
       {
-        "count": 136024,
+        "count": 133840,
         "player_id": "7049"
       },
       {
-        "count": 127650,
+        "count": 130680,
         "player_id": "6819"
       },
       {
-        "count": 117768,
+        "count": 117388,
         "player_id": "4227"
       },
       {
-        "count": 114944,
+        "count": 113240,
         "player_id": "11625"
       },
       {
-        "count": 111816,
+        "count": 109008,
         "player_id": "5045"
       },
       {
-        "count": 107152,
+        "count": 106352,
         "player_id": "3321"
       },
       {
-        "count": 104349,
+        "count": 102403,
         "player_id": "9754"
       },
       {
-        "count": 93501,
-        "player_id": "13330"
-      },
-      {
-        "count": 92768,
+        "count": 91336,
         "player_id": "5849"
       },
       {
-        "count": 91908,
-        "player_id": "12533"
+        "count": 91251,
+        "player_id": "13330"
       },
       {
-        "count": 91511,
+        "count": 90062,
         "player_id": "7553"
       },
       {
-        "count": 86796,
+        "count": 88191,
+        "player_id": "12533"
+      },
+      {
+        "count": 85914,
         "player_id": "12718"
       },
       {
-        "count": 86787,
-        "player_id": "9756"
-      },
-      {
-        "count": 83907,
-        "player_id": "13286"
-      },
-      {
-        "count": 83115,
+        "count": 85230,
         "player_id": "13264"
       },
       {
-        "count": 81473,
+        "count": 84987,
+        "player_id": "9756"
+      },
+      {
+        "count": 82377,
+        "player_id": "13286"
+      },
+      {
+        "count": 81151,
         "player_id": "13414"
       },
       {
-        "count": 75352,
-        "player_id": "13296"
-      },
-      {
-        "count": 75276,
+        "count": 74673,
         "player_id": "11571"
       },
       {
-        "count": 73528,
+        "count": 74464,
+        "player_id": "13296"
+      },
+      {
+        "count": 73952,
         "player_id": "6650"
       },
       {
-        "count": 73062,
+        "count": 73467,
         "player_id": "10222"
       },
       {
-        "count": 71750,
-        "player_id": "9225"
-      },
-      {
-        "count": 71712,
+        "count": 70785,
         "player_id": "11581"
       },
       {
-        "count": 70872,
-        "player_id": "12545"
+        "count": 70007,
+        "player_id": "9225"
       },
       {
-        "count": 70496,
+        "count": 68904,
         "player_id": "11586"
       },
       {
-        "count": 68679,
+        "count": 68796,
         "player_id": "6130"
       },
       {
-        "count": 67959,
+        "count": 67050,
         "player_id": "13337"
       },
       {
-        "count": 67905,
+        "count": 66609,
         "player_id": "11630"
       },
       {
-        "count": 62622,
+        "count": 66128,
+        "player_id": "12545"
+      },
+      {
+        "count": 62703,
         "player_id": "DET"
       },
       {
-        "count": 61524,
+        "count": 60084,
         "player_id": "10213"
       },
       {
-        "count": 60144,
+        "count": 59010,
         "player_id": "BAL"
       },
       {
-        "count": 58149,
+        "count": 57780,
         "player_id": "8180"
       },
       {
-        "count": 53744,
+        "count": 53360,
         "player_id": "1166"
       },
       {
-        "count": 52640,
+        "count": 53020,
         "player_id": "11631"
       },
       {
-        "count": 51576,
-        "player_id": "3634"
-      },
-      {
-        "count": 51174,
+        "count": 51453,
         "player_id": "10219"
       },
       {
-        "count": 50400,
+        "count": 50434,
+        "player_id": "3634"
+      },
+      {
+        "count": 49482,
         "player_id": "11157"
       },
       {
-        "count": 49134,
+        "count": 48660,
         "player_id": "LV"
       },
       {
-        "count": 48276,
-        "player_id": "13294"
-      },
-      {
-        "count": 47740,
-        "player_id": "2307"
-      },
-      {
-        "count": 47556,
+        "count": 47736,
         "player_id": "9226"
       },
       {
-        "count": 46984,
+        "count": 47520,
+        "player_id": "13294"
+      },
+      {
+        "count": 47120,
+        "player_id": "2307"
+      },
+      {
+        "count": 46888,
         "player_id": "ARI"
       },
       {
-        "count": 45972,
-        "player_id": "11624"
-      },
-      {
-        "count": 45696,
-        "player_id": "12492"
-      },
-      {
-        "count": 45608,
+        "count": 46624,
         "player_id": "7567"
       },
       {
-        "count": 45332,
+        "count": 46017,
+        "player_id": "11624"
+      },
+      {
+        "count": 45353,
         "player_id": "10218"
       },
       {
-        "count": 45262,
-        "player_id": "9758"
-      },
-      {
-        "count": 44904,
+        "count": 45126,
         "player_id": "4037"
       },
       {
-        "count": 44538,
+        "count": 44968,
+        "player_id": "9758"
+      },
+      {
+        "count": 44872,
+        "player_id": "12492"
+      },
+      {
+        "count": 44292,
         "player_id": "12711"
       },
       {
-        "count": 41310,
-        "player_id": "3271"
+        "count": 41175,
+        "player_id": "9482"
       }
     ]
   },
